@@ -1,0 +1,11 @@
+Library/*
+Temp/*
+obj/*
+builds/*
+.vs/*
+etc/*
+Logs/*
+.vscode/*
+.idea/.idea.Turns/.idea/workspace.xml
+.idea/.idea.Turns/.idea/contentModel.xml
+*.csproj
