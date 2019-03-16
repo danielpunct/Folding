@@ -51,7 +51,7 @@ public class CurlEf : MonoBehaviour {
             return;
         }
         _Front.position = Vector3.Lerp(_Front.position, handle.position + dragOffset, Time.fixedDeltaTime*10);
-        _Front.position = handle.position+ dragOffset;        
+//        _Front.position = handle.position+ dragOffset;        
 
         transform.position = _Pos;
         transform.eulerAngles = Vector3.zero;
@@ -97,18 +97,18 @@ public class CurlEf : MonoBehaviour {
 
         if ( theta >= 90.0f) // to much left
         {
-            corner = 3;
-            dragOffset += _PosRD.position - _PosLD.position;
-            changedCorner = true;
-            return;
+//            corner = 3;
+//            dragOffset += _PosRD.position - _PosLD.position;
+//            changedCorner = true;
+//            return;
         }
 
         if (theta <= 0.0f) //too much down
         {
-            corner = 1;
-            dragOffset += _PosLU.position - _PosLD.position;
-            changedCorner = true;
-            return;
+//            corner = 1;
+//            dragOffset += _PosLU.position - _PosLD.position;
+//            changedCorner = true;
+//            return;
         }
 
         float deg = -(90.0f - theta) * 2.0f;
@@ -134,18 +134,18 @@ public class CurlEf : MonoBehaviour {
 
         if (theta >= 90.0f)
         {
-            corner = 4;
-            dragOffset -=  _PosRD.position - _PosLD.position;
-            changedCorner = true;
-            return;
+//            corner = 4;
+//            dragOffset -=  _PosRD.position - _PosLD.position;
+//            changedCorner = true;
+//            return;
         }
 
         if (theta <= 0.0f)
         {
-            corner = 2;
-            dragOffset +=  _PosLU.position - _PosLD.position;
-            changedCorner = true;
-            return;
+//            corner = 2;
+//            dragOffset +=  _PosLU.position - _PosLD.position;
+//            changedCorner = true;
+//            return;
         }
 
         float deg = (90.0f - theta) * 2.0f;
@@ -173,18 +173,18 @@ public class CurlEf : MonoBehaviour {
         if (theta >= 90.0f)
         {
           
-            corner =2;
-            dragOffset +=  _PosRD.position - _PosLD.position;
-            changedCorner = true;
-            return;
+//            corner =2;
+//            dragOffset +=  _PosRD.position - _PosLD.position;
+//            changedCorner = true;
+//            return;
         }
 
         if (theta <= 0.0f)
         { 
-            corner = 4;
-            dragOffset -=  _PosLU.position - _PosLD.position;
-            changedCorner = true;
-            return;
+//            corner = 4;
+//            dragOffset -=  _PosLU.position - _PosLD.position;
+//            changedCorner = true;
+//            return;
         }
 
         float deg = (90.0f - theta) * 2.0f;
@@ -210,21 +210,20 @@ public class CurlEf : MonoBehaviour {
         
         Vector3 pos = _PosRU.position - _Front.position;
         float theta = Mathf.Atan2(pos.y, pos.x) * 180.0f / Mathf.PI;
-        Debug.Log(theta);
         if (theta >= 90.0f)
         {
-            corner = 1;
-            dragOffset -=  _PosRD.position - _PosLD.position;
-            changedCorner = true;
-            return;
+//            corner = 1;
+//            dragOffset -=  _PosRD.position - _PosLD.position;
+//            changedCorner = true;
+//            return;
         }
 
         if (theta <= 0.0f)
         { 
-            corner = 3;
-            dragOffset -=  _PosLU.position - _PosLD.position;
-            changedCorner = true;
-            return;
+//            corner = 3;
+//            dragOffset -=  _PosLU.position - _PosLD.position;
+//            changedCorner = true;
+//            return;
         }
 
         float deg = -(90.0f - theta) * 2.0f;

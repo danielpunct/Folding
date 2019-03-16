@@ -16,29 +16,39 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Test/CurlEf.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="431">
-              <caret line="71" column="5" lean-forward="true" selection-start-line="71" selection-start-column="5" selection-end-line="71" selection-end-column="5" />
+            <state relative-caret-position="-765">
+              <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
               <folding>
-                <marker date="1552758690989" expanded="false" signature="6:44" ph="..." />
-                <marker date="1552758690989" expanded="true" signature="102:6169" ph="{...}" />
-                <marker date="1552758690989" expanded="true" signature="604:681" ph="{...}" />
-                <marker date="1552758690989" expanded="true" signature="737:1543" ph="{...}" />
-                <marker date="1552758690989" expanded="true" signature="1026:1326" ph="{...}" />
-                <marker date="1552758690989" expanded="true" signature="1354:1455" ph="{...}" />
-                <marker date="1552758690989" expanded="true" signature="1564:2641" ph="{...}" />
-                <marker date="1552758690989" expanded="true" signature="1905:2064" ph="{...}" />
-                <marker date="1552758690989" expanded="true" signature="2108:2267" ph="{...}" />
-                <marker date="1552758690989" expanded="true" signature="2665:3711" ph="{...}" />
-                <marker date="1552758690989" expanded="true" signature="2990:3150" ph="{...}" />
-                <marker date="1552758690989" expanded="true" signature="3178:3338" ph="{...}" />
-                <marker date="1552758690989" expanded="true" signature="3735:4928" ph="{...}" />
-                <marker date="1552758690989" expanded="true" signature="3900:4019" ph="/* _FrontRectTransform.anchorMin = new Vector2(1,0); ... */" />
-                <marker date="1552758690989" expanded="true" signature="4192:4362" ph="{...}" />
-                <marker date="1552758690989" expanded="true" signature="4390:4551" ph="{...}" />
-                <marker date="1552758690989" expanded="true" signature="4957:6166" ph="{...}" />
-                <marker date="1552758690989" expanded="true" signature="5122:5241" ph="/* _FrontRectTransform.anchorMin = new Vector2(1,0); ... */" />
-                <marker date="1552758690989" expanded="true" signature="5439:5599" ph="{...}" />
-                <marker date="1552758690989" expanded="true" signature="5627:5788" ph="{...}" />
+                <marker date="1552760302050" expanded="true" signature="6:44" ph="..." />
+                <marker date="1552760302050" expanded="true" signature="102:6383" ph="{...}" />
+                <marker date="1552760302050" expanded="true" signature="627:704" ph="{...}" />
+                <marker date="1552760302050" expanded="true" signature="760:818" ph="{...}" />
+                <marker date="1552760302050" expanded="true" signature="843:1719" ph="{...}" />
+                <marker date="1552760302050" expanded="true" signature="877:917" ph="{...}" />
+                <marker date="1552760302050" expanded="true" signature="1200:1500" ph="{...}" />
+                <marker date="1552760302050" expanded="true" signature="1528:1631" ph="{...}" />
+                <marker date="1552760302050" expanded="true" signature="1740:2833" ph="{...}" />
+                <marker date="1552760302050" expanded="true" signature="2081:2248" ph="{...}" />
+                <marker date="1552760302050" expanded="true" signature="2092:2238" ph="/* corner = 3; ... */" />
+                <marker date="1552760302050" expanded="true" signature="2292:2459" ph="{...}" />
+                <marker date="1552760302050" expanded="true" signature="2303:2449" ph="/* corner = 1; ... */" />
+                <marker date="1552760302050" expanded="true" signature="2857:3919" ph="{...}" />
+                <marker date="1552760302050" expanded="true" signature="3182:3350" ph="{...}" />
+                <marker date="1552760302050" expanded="true" signature="3193:3340" ph="/* corner = 4; ... */" />
+                <marker date="1552760302050" expanded="true" signature="3378:3546" ph="{...}" />
+                <marker date="1552760302050" expanded="true" signature="3389:3536" ph="/* corner = 2; ... */" />
+                <marker date="1552760302050" expanded="true" signature="3943:5152" ph="{...}" />
+                <marker date="1552760302050" expanded="true" signature="4108:4227" ph="/* _FrontRectTransform.anchorMin = new Vector2(1,0); ... */" />
+                <marker date="1552760302050" expanded="true" signature="4400:4578" ph="{...}" />
+                <marker date="1552760302050" expanded="true" signature="4422:4568" ph="/* corner =2; ... */" />
+                <marker date="1552760302050" expanded="true" signature="4606:4775" ph="{...}" />
+                <marker date="1552760302050" expanded="true" signature="4618:4765" ph="/* corner = 4; ... */" />
+                <marker date="1552760302050" expanded="true" signature="5181:6380" ph="{...}" />
+                <marker date="1552760302050" expanded="true" signature="5346:5465" ph="/* _FrontRectTransform.anchorMin = new Vector2(1,0); ... */" />
+                <marker date="1552760302050" expanded="true" signature="5637:5805" ph="{...}" />
+                <marker date="1552760302050" expanded="true" signature="5648:5795" ph="/* corner = 1; ... */" />
+                <marker date="1552760302050" expanded="true" signature="5833:6002" ph="{...}" />
+                <marker date="1552760302050" expanded="true" signature="5845:5992" ph="/* corner = 3; ... */" />
               </folding>
             </state>
           </provider>
@@ -142,12 +152,12 @@
       <option name="presentableId" value="Default" />
       <updated>1552590794719</updated>
       <workItem from="1552590803677" duration="6594000" />
-      <workItem from="1552753416602" duration="5376000" />
+      <workItem from="1552753416602" duration="7047000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11970000" />
+    <option name="totallyTimeSpent" value="13641000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -177,7 +187,7 @@
       <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Performance Profiler" order="8" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="10" visible="true" weight="0.16359697" />
       <window_info anchor="bottom" id="Unity" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Unit Tests" order="13" />
@@ -197,6 +207,32 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -210,29 +246,39 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Assets/Test/CurlEf.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="71" column="5" lean-forward="true" selection-start-line="71" selection-start-column="5" selection-end-line="71" selection-end-column="5" />
+        <state relative-caret-position="-765">
+          <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
           <folding>
-            <marker date="1552758690989" expanded="false" signature="6:44" ph="..." />
-            <marker date="1552758690989" expanded="true" signature="102:6169" ph="{...}" />
-            <marker date="1552758690989" expanded="true" signature="604:681" ph="{...}" />
-            <marker date="1552758690989" expanded="true" signature="737:1543" ph="{...}" />
-            <marker date="1552758690989" expanded="true" signature="1026:1326" ph="{...}" />
-            <marker date="1552758690989" expanded="true" signature="1354:1455" ph="{...}" />
-            <marker date="1552758690989" expanded="true" signature="1564:2641" ph="{...}" />
-            <marker date="1552758690989" expanded="true" signature="1905:2064" ph="{...}" />
-            <marker date="1552758690989" expanded="true" signature="2108:2267" ph="{...}" />
-            <marker date="1552758690989" expanded="true" signature="2665:3711" ph="{...}" />
-            <marker date="1552758690989" expanded="true" signature="2990:3150" ph="{...}" />
-            <marker date="1552758690989" expanded="true" signature="3178:3338" ph="{...}" />
-            <marker date="1552758690989" expanded="true" signature="3735:4928" ph="{...}" />
-            <marker date="1552758690989" expanded="true" signature="3900:4019" ph="/* _FrontRectTransform.anchorMin = new Vector2(1,0); ... */" />
-            <marker date="1552758690989" expanded="true" signature="4192:4362" ph="{...}" />
-            <marker date="1552758690989" expanded="true" signature="4390:4551" ph="{...}" />
-            <marker date="1552758690989" expanded="true" signature="4957:6166" ph="{...}" />
-            <marker date="1552758690989" expanded="true" signature="5122:5241" ph="/* _FrontRectTransform.anchorMin = new Vector2(1,0); ... */" />
-            <marker date="1552758690989" expanded="true" signature="5439:5599" ph="{...}" />
-            <marker date="1552758690989" expanded="true" signature="5627:5788" ph="{...}" />
+            <marker date="1552760302050" expanded="true" signature="6:44" ph="..." />
+            <marker date="1552760302050" expanded="true" signature="102:6383" ph="{...}" />
+            <marker date="1552760302050" expanded="true" signature="627:704" ph="{...}" />
+            <marker date="1552760302050" expanded="true" signature="760:818" ph="{...}" />
+            <marker date="1552760302050" expanded="true" signature="843:1719" ph="{...}" />
+            <marker date="1552760302050" expanded="true" signature="877:917" ph="{...}" />
+            <marker date="1552760302050" expanded="true" signature="1200:1500" ph="{...}" />
+            <marker date="1552760302050" expanded="true" signature="1528:1631" ph="{...}" />
+            <marker date="1552760302050" expanded="true" signature="1740:2833" ph="{...}" />
+            <marker date="1552760302050" expanded="true" signature="2081:2248" ph="{...}" />
+            <marker date="1552760302050" expanded="true" signature="2092:2238" ph="/* corner = 3; ... */" />
+            <marker date="1552760302050" expanded="true" signature="2292:2459" ph="{...}" />
+            <marker date="1552760302050" expanded="true" signature="2303:2449" ph="/* corner = 1; ... */" />
+            <marker date="1552760302050" expanded="true" signature="2857:3919" ph="{...}" />
+            <marker date="1552760302050" expanded="true" signature="3182:3350" ph="{...}" />
+            <marker date="1552760302050" expanded="true" signature="3193:3340" ph="/* corner = 4; ... */" />
+            <marker date="1552760302050" expanded="true" signature="3378:3546" ph="{...}" />
+            <marker date="1552760302050" expanded="true" signature="3389:3536" ph="/* corner = 2; ... */" />
+            <marker date="1552760302050" expanded="true" signature="3943:5152" ph="{...}" />
+            <marker date="1552760302050" expanded="true" signature="4108:4227" ph="/* _FrontRectTransform.anchorMin = new Vector2(1,0); ... */" />
+            <marker date="1552760302050" expanded="true" signature="4400:4578" ph="{...}" />
+            <marker date="1552760302050" expanded="true" signature="4422:4568" ph="/* corner =2; ... */" />
+            <marker date="1552760302050" expanded="true" signature="4606:4775" ph="{...}" />
+            <marker date="1552760302050" expanded="true" signature="4618:4765" ph="/* corner = 4; ... */" />
+            <marker date="1552760302050" expanded="true" signature="5181:6380" ph="{...}" />
+            <marker date="1552760302050" expanded="true" signature="5346:5465" ph="/* _FrontRectTransform.anchorMin = new Vector2(1,0); ... */" />
+            <marker date="1552760302050" expanded="true" signature="5637:5805" ph="{...}" />
+            <marker date="1552760302050" expanded="true" signature="5648:5795" ph="/* corner = 1; ... */" />
+            <marker date="1552760302050" expanded="true" signature="5833:6002" ph="{...}" />
+            <marker date="1552760302050" expanded="true" signature="5845:5992" ph="/* corner = 3; ... */" />
           </folding>
         </state>
       </provider>
